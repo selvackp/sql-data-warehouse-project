@@ -1,2 +1,5 @@
-# sql-data-warehouse-project
-Building a modern data warehouse with SQL Server , including ETL processes , data modeling and analytics
+Data Warehosuing and Data Analytics
+
+Welcome to the Repository 
+
+Here with we will learn about Metallion Architecture Design for the Data Warehousing !!!
